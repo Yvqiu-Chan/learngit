@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is a free software.
-Git has a multable index called stage.
-Git tracks changes.
+VimCrypt~01!°zžJÄÆê{<%…|aÒ/a­­Z]x=îÁÍ?9Õµâ+g¯žà¾k?L_ŒûFÑÅû¢ï;]lÎmôãŽ%Ë}ª &uî˜»²KøFw»·Â¤Ñç‰³ù'Ý(¦§u x!ÛB—Cå§»¿Ðp•×†&RŸˆ,þ`eÃj«žKtÊ-'`D°`¾£K[uâ
